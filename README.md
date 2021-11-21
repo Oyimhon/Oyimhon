@@ -1,5 +1,10 @@
-### Hi there 👋
+## Hello World 👋
 
+[![Visits Badge](https://badges.pufler.dev/visits/Oyimhon/Oyimhon)](https://www.linkedin.com/in/oyimhon-alimjanova/)
+
+> Frontend React JS Developer 🚀
+
+![Oyimhon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Oyimhon&count_private=true&show_icons=true&theme=vue&line_height=22)
 <!--
 **Oyimhon/Oyimhon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
